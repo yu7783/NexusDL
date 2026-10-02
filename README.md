@@ -36,11 +36,6 @@
 ## 起動方法
 
 ```powershell
-cd C:\Users\nnyk0\.gemini\antigravity\scratch\custom_downloader
+pip install -r requirements.txt
 python main.py
-```
-
-### 自動テストの実行
-```powershell
-python test_runner.py
 ```
