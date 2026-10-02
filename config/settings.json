@@ -1,0 +1,17 @@
+{
+  "download_directory": "C:\\Users\\nnyk0\\Downloads",
+  "appearance_mode": "dark",
+  "color_theme": "blue",
+  "show_advanced_settings": false,
+  "auto_tune_concurrency": true,
+  "max_concurrency": 12,
+  "chunk_size_kb": 1024,
+  "last_speed_test_mbps": 247.64,
+  "last_speed_test_summary": "247.6 Mbps (遅延 87ms) → 推奨並列数: 12 / チャンク: 1024KB",
+  "timeout_seconds": 30,
+  "request_retries": 3,
+  "proxy_url": "",
+  "enable_resume": true,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+  "auto_clear_finished": false
+}

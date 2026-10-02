@@ -1,0 +1,4 @@
+﻿customtkinter
+Requests
+urllib3
+yt_dlp
